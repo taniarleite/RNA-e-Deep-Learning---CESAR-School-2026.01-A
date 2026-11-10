@@ -1,1 +1,2 @@
-# RNA-e-Deep-Learning---CESAR-School-2026.01-A
+# Nome: Tânia Regina Marçal Leite
+# Email: trml@cesar.school
